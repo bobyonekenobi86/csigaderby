@@ -1,3 +1,1 @@
-GDE 
-Elosztott Alkalmazások beadandó
-Csigaverseny
+GDE - Elosztott Alkalmazások beadandó - Csigaverseny
